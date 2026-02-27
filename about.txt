@@ -1,4 +1,2 @@
-eman - python
-First edit
-Second edit
-Third edit
+"Name: [Your Name]" 
+"Favorite Language: [Your Language]" 
